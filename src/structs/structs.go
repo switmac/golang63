@@ -21,4 +21,6 @@ func main() {
     fmt.Println(arnel)
     fmt.Println(dave)
     fmt.Println(marie)
+
+    fmt.Println("hello iam ", arnel.name)
 }
